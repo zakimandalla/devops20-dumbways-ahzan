@@ -3,7 +3,30 @@ Task for week 1 stage 1
 
 ## Task for day 2
 ### 1. Perbedaan antara IP Private & Public, serta IP Dynamic & Static!
-Jawaban
+Berdasarkan Jangkauan:
+##### IP Private:
+1. Digunakan untuk jaringan lokal (LAN) dan tidak dapat diakses langsung dari internet.
+2. Keamanan jaringan lokal lebih terjaga karena tidak bisa diakses langsung dari internet.
+3. Contoh penggunaan: Jaringan rumah, jaringan kantor.
+##### IP Public:
+1. Digunakan untuk perangkat yang terhubung langsung ke internet.
+2. IP Address ditetapkan oleh Internet Service Provider.
+3. Dapat digunakan untuk berkomunikasi dengan perangkat lain di internet.
+4. Contoh penggunaan: Website, server email.
+
+Berdasarkan Penetapan:
+##### IP Dynamic:
+1. Ditetapkan secara otomatis oleh DHCP (Dynamic Host Configuration Protocol) server.
+2. Berubah secara berkala.
+3. Lebih mudah untuk dikonfigurasi dan dikelola.
+4. Contoh: komputer, laptop, smartphone.
+##### IP Static:
+1. Ditetapkan secara manual oleh administrator jaringan.
+2. IP address tidak berubah.
+3. Digunakan untuk perangkat yang memerlukan alamat IP yang konsisten.
+4. Memberikan kontrol lebih besar atas konfigurasi jaringan.
+5. Contoh: server, router, dan kamera keamanan.
+
 
 ### 2. Buat penjelasan singkat tentang Virtualization!
 Jawaban
