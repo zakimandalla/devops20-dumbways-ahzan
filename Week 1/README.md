@@ -133,3 +133,10 @@ CLI memiliki antarmuka berbasis teks. Pengguna mengetikkan perintah untuk melaku
 
 ##### GUI (Graphical User Interface):
 GUI memiliki antarmuka berbasis grafis. Pengguna berinteraksi dengan elemen visual seperti ikon, menu, dan jendela dengan memanfaatkan klik mouse dan navigasi menu. Hal ini membuatnya lebih user-friendly dan mudah digunakan untuk pemula karena struktur dan fungsi program dapat divisualisasikan. Namun, kurang efisien untuk melakukan banyak tugas karena membutuhkan resource komputer lebih banyak.
+
+
+
+
+### 4. Fungsi systemctl dan contoh commandnya (gunakan nginx)
+Systemctl adalah alat/command/software yang digunakan untuk mengelola layanan sistem di Linux. Alat ini dapat digunakan untuk memulai, menghentikan, mengaktifkan, menonaktifkan, dan memeriksa status layanan sistem.
+
