@@ -107,3 +107,21 @@ Langkah 22: Pilih Network, Ubah Attached to: ke Bridged Adapter, lalu klik OK
 ![alt text](https://github.com/zakimandalla/devops20-dumbways-ahzan/blob/main/Week%201/D-2/7.PNG?raw=true)
 
 Sekarang VM telah siap digunakan
+
+
+
+
+
+## Task for day 3
+### 1. Perbedaan antara distro Ubuntu dan CentOS
+##### Ubuntu: 
+- Sistem Operasi berbasis Debian, menggunakan arsitektur .deb untuk paket software.
+- Siklus rilis yang lebih cepat (6 bulan) dengan fokus pada fitur terbaru.
+- Memiliki komunitas pengguna yang besar dan aktif, dengan banyak dokumentasi dan sumber daya online.
+- Cocok untuk berbagai penggunaan, termasuk server, desktop, dan cloud computing.
+- Mudah digunakan dan memiliki banyak pilihan software.
+##### CentOS: 
+- Sistem Operasi berbasis Red Hat Enterprise Linux (RHEL), menggunakan arsitektur .rpm untuk paket software.
+- Memiliki siklus rilis yang lebih lambat (10 tahun) dengan fokus pada stabilitas dan kompatibilitas.
+- Dikenal sebagai pilihan populer untuk server web karena stabilitas dan kompatibilitasnya.
+- Sangat stabil dan kompatibel dengan banyak software enterprise.
