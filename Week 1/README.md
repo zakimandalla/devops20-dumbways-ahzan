@@ -8,12 +8,11 @@ Jawaban
 ### 2. Buat penjelasan singkat tentang Virtualization!
 Jawaban
 
-### 3. Buat rancangan sebuah jaringan dengan spesifikasi sebagai berikut!
+### 3. Rancangan sebuah jaringan dengan spesifikasi sebagai berikut!
       - CIDR Block : 192.168.1.xxx/24
       - Subnet : 255.255.255.0
       - Gateway : 192.168.1.1
-#### (Gunakan app.diagrams.net untuk membuat diagramnya)
-Jawaban
+![alt text](https://github.com/zakimandalla/devops20-dumbways-ahzan/blob/main/Week%201/D-2/ip.PNG?raw=true)
 
 ### 4. Step-by-Step Menginstall Virtual Machine Ubuntu 20.04 via VirtualBox di Windows 10
 Langkah 1: Unduh dan Install VirtualBox di https://www.virtualbox.org/wiki/Downloads
