@@ -35,7 +35,7 @@ Virtualization adalah teknologi yang dapat menjalankan beberapa sistem operasi (
       - CIDR Block : 192.168.1.xxx/24
       - Subnet : 255.255.255.0
       - Gateway : 192.168.1.1
-![alt text](https://github.com/zakimandalla/devops20-dumbways-ahzan/blob/main/Week%201/D-2/ip.PNG?raw=true)
+![alt text](https://github.com/zakimandalla/devops20-dumbways-ahzan/blob/main/Week%201/D-2/ipx.PNG?raw=true)
 
 ### 4. Step-by-Step Menginstall Virtual Machine Ubuntu 20.04 via VirtualBox di Windows 10
 Langkah 1: Unduh dan Install VirtualBox di https://www.virtualbox.org/wiki/Downloads
