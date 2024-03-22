@@ -143,6 +143,7 @@ GUI memiliki antarmuka berbasis grafis. Pengguna berinteraksi dengan elemen visu
 - Ganti IP address kalian (bebas) lalu akses kembali nginx (`/etc/netplan`)
 ![alt text](https://github.com/zakimandalla/devops20-dumbways-ahzan/blob/main/Week%201/D-3/3.PNG?raw=true)
 ![alt text](https://github.com/zakimandalla/devops20-dumbways-ahzan/blob/main/Week%201/D-3/4.PNG?raw=true)
+![alt text](https://github.com/zakimandalla/devops20-dumbways-ahzan/blob/main/Week%201/D-3/nginx%20new%20ip.png?raw=true)
 
 
 ### 4. Fungsi systemctl dan contoh commandnya (gunakan nginx)
