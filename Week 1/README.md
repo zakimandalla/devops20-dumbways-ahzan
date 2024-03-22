@@ -28,8 +28,8 @@ Berdasarkan Penetapan:
 5. Contoh: server, router, dan kamera keamanan.
 
 
-### 2. Buat penjelasan singkat tentang Virtualization!
-Jawaban
+### 2. Penjelasan singkat tentang Virtualization!
+Virtualization adalah teknologi yang dapat menjalankan beberapa sistem operasi (OS) secara bersamaan dalam satu perangkat komputer. Caranya dengan membuat Virtual Machine (OS didalam OS) yang dilengkapi dengan CPU, RAM, penyimpanan, dan perangkat jaringan.
 
 ### 3. Rancangan sebuah jaringan dengan spesifikasi sebagai berikut!
       - CIDR Block : 192.168.1.xxx/24
