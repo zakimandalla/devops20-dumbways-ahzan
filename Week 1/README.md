@@ -125,3 +125,11 @@ Sekarang VM telah siap digunakan
 - Memiliki siklus rilis yang lebih lambat (10 tahun) dengan fokus pada stabilitas dan kompatibilitas.
 - Dikenal sebagai pilihan populer untuk server web karena stabilitas dan kompatibilitasnya.
 - Sangat stabil dan kompatibel dengan banyak software enterprise.
+
+
+### 2. Perbedaan dari CLI & GUI.
+##### CLI (Command-Line Interface):
+CLI memiliki antarmuka berbasis teks. Pengguna mengetikkan perintah untuk melakukan operasi tertentu. Sehingga memerlukan pengetahuan tentang perintah dan sintaks yang tepat. Hal ini membuatnya lebih efisien untuk berbagai tugas karena membutuhkan lebih sedikit resource komputer. Namun, kurang ramah bagi pengguna awam karena memerlukan menghafal perintah dan sintaks.
+
+##### GUI (Graphical User Interface):
+GUI memiliki antarmuka berbasis grafis. Pengguna berinteraksi dengan elemen visual seperti ikon, menu, dan jendela dengan memanfaatkan klik mouse dan navigasi menu. Hal ini membuatnya lebih user-friendly dan mudah digunakan untuk pemula karena struktur dan fungsi program dapat divisualisasikan. Namun, kurang efisien untuk melakukan banyak tugas karena membutuhkan resource komputer lebih banyak.
